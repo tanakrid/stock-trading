@@ -1,0 +1,6 @@
+pandas
+numpy
+yfinance
+matplotlib
+ta
+ccxt  # For connecting to cryptocurrency exchanges
